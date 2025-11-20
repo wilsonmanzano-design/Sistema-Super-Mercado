@@ -1,0 +1,14 @@
+C:\Users\ISER\Documents\sistema super mercado\bin\Debug\net9.0\sistema super mercado.exe
+C:\Users\ISER\Documents\sistema super mercado\bin\Debug\net9.0\sistema super mercado.deps.json
+C:\Users\ISER\Documents\sistema super mercado\bin\Debug\net9.0\sistema super mercado.runtimeconfig.json
+C:\Users\ISER\Documents\sistema super mercado\bin\Debug\net9.0\sistema super mercado.dll
+C:\Users\ISER\Documents\sistema super mercado\bin\Debug\net9.0\sistema super mercado.pdb
+C:\Users\ISER\Documents\sistema super mercado\obj\Debug\net9.0\sistema super mercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISER\Documents\sistema super mercado\obj\Debug\net9.0\sistema super mercado.AssemblyInfoInputs.cache
+C:\Users\ISER\Documents\sistema super mercado\obj\Debug\net9.0\sistema super mercado.AssemblyInfo.cs
+C:\Users\ISER\Documents\sistema super mercado\obj\Debug\net9.0\sistema super mercado.csproj.CoreCompileInputs.cache
+C:\Users\ISER\Documents\sistema super mercado\obj\Debug\net9.0\sistema super mercado.dll
+C:\Users\ISER\Documents\sistema super mercado\obj\Debug\net9.0\refint\sistema super mercado.dll
+C:\Users\ISER\Documents\sistema super mercado\obj\Debug\net9.0\sistema super mercado.pdb
+C:\Users\ISER\Documents\sistema super mercado\obj\Debug\net9.0\sistema super mercado.genruntimeconfig.cache
+C:\Users\ISER\Documents\sistema super mercado\obj\Debug\net9.0\ref\sistema super mercado.dll
